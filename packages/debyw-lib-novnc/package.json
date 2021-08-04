@@ -1,0 +1,16 @@
+{
+  "name": "debyw-lib-novnc",
+  "version": "1.0.0",
+  "description": "Unofficial noVnc package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "novnc",
+    "vnc",
+    "debyw"
+  ],
+  "author": "Luca Fabbian <luca.fabbian.1999@gmail.com>",
+  "license": "MIT"
+}
